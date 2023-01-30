@@ -11,3 +11,4 @@
 
 **machine_learning.ipynb** = 머신러닝 모델을 이용한 데이터 분석 과정<br>
 
+temp = 연습과정에서 사용한 임시 파일들
