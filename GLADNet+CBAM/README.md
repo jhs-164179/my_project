@@ -7,6 +7,6 @@
 **results** = 논문그대로 train한 후 test한 이미지를 저장한 디렉터리
 **sample** = train단계에서 변화된 검증용 데이터를 저장한 디렉터리<br>
 **test_results** = data의 test데이터를 test한 결과를 저장한 디렉터리<br>
-**main.py** = 실행 파일
-**model.py** = GLADNet+CBAM 모델, 학습 및 테스트 과정 등의 클래스 정의
-**utils.py** = 데이터 증강, 이미지 불러오기, 이미지 저장 함수
+**main.py** = 실행 파일<br>
+**model.py** = GLADNet+CBAM 모델, 학습 및 테스트 과정 등의 클래스 정의<br>
+**utils.py** = 데이터 증강, 이미지 불러오기, 이미지 저장 함수<br>
