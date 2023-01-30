@@ -4,7 +4,7 @@
 **model** = 테스트 단계에서 저장된 모델을 가져오는 디렉터리<br>
 **models** = simple_unet, original_gladnet의 model.py가 저장되어있는 디렉터리<br>
 **paper_readme** = gladnet, cbam 영문 readme.md파일 저장 디렉터리<br>
-**results** = 논문그대로 train한 후 test한 이미지를 저장한 디렉터리
+**results** = 논문그대로 train한 후 test한 이미지를 저장한 디렉터리<br>
 **sample** = train단계에서 변화된 검증용 데이터를 저장한 디렉터리<br>
 **test_results** = data의 test데이터를 test한 결과를 저장한 디렉터리<br>
 **main.py** = 실행 파일<br>
